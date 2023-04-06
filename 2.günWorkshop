@@ -1,0 +1,5 @@
+kullaniciAdlari = []
+for x in range (0,10):
+  kullaniciAdi = input("Kullanıcı adı giriniz:")
+  kullaniciAdlari.append(kullaniciAdi)
+print(kullaniciAdlari)
